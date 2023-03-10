@@ -59,6 +59,12 @@ sudo apt install postgresql postgresql-contrib
 export ASPNETCORE_ENVIRONMENT=Production
 ```
 
+```
+gedit ~/.profile
+```
+
+* add to the bottom of .profile "export ASPNETCORE_ENVIRONMENT=Production"
+
 ### Copy Build from Windows to Linux
 
 * Copy files from Windows "C:\build\linux\circulo\home\cadmin" to "/home/cadmin" on Linux
