@@ -1,0 +1,8 @@
+client\node_modules
+client\.gitignore
+client\.vscode
+client\build
+client\package-lock.json
+client\src\appsettings.Development.json
+client\src\appsettings.Production.json
+client\.git

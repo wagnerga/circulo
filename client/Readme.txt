@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Host=localhost;Database=Circulo;Username=postgres;Password=postgres" Npgsql.EntityFrameworkCore.PostgreSQL -Project "DatabaseModels" -NoPluralize -force

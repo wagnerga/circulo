@@ -1,0 +1,14 @@
+C:\Users\Gabe\Documents\git\circulo\databaseModels\bin\Debug\net7.0\DatabaseModels.deps.json
+C:\Users\Gabe\Documents\git\circulo\databaseModels\bin\Debug\net7.0\DatabaseModels.runtimeconfig.json
+C:\Users\Gabe\Documents\git\circulo\databaseModels\bin\Debug\net7.0\DatabaseModels.dll
+C:\Users\Gabe\Documents\git\circulo\databaseModels\bin\Debug\net7.0\DatabaseModels.pdb
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.csproj.AssemblyReference.cache
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.AssemblyInfo.cs
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.dll
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\refint\DatabaseModels.dll
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.pdb
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\DatabaseModels.genruntimeconfig.cache
+C:\Users\Gabe\Documents\git\circulo\databaseModels\obj\Debug\net7.0\ref\DatabaseModels.dll
