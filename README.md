@@ -61,6 +61,11 @@ sudo apt install postgresql postgresql-contrib
 
 ```
 sudo chmod +x /home/cadmin/circulo/web/api/API.dll
+sudo chmod +x /home/
+sudo chmod +x /home/cadmin
+sudo chmod +x /home/cadmin/circulo
+sudo chmod +x /home/cadmin/circulo/web
+sudo chmod +x /home/cadmin/circulo/web/client
 ```
 
 ### Install Web Node Modules
