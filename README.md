@@ -1,7 +1,7 @@
 # Build for Linux on Windows
 
 * Execute [publishLinux.bat](publishLinux.bat)
-> **_NOTE:_** You must set the 4th parameter sent to [publish.bat](publish.bat) to be the path on your local machine where circulo was cloned from git. By default files go to "C:\build\linux\circulo".
+> **_NOTE:_** You must set the 3rd parameter sent to [publish.bat](publish.bat) to be the path on your local machine where circulo was cloned from git. By default files go to "C:\build\linux\circulo".
 
 # Install on Linux 
 
